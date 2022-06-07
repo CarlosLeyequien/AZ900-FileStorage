@@ -52,5 +52,26 @@ How to use shared file storage in Azure
   ![image](https://user-images.githubusercontent.com/105960409/172264391-ca944153-4c12-45aa-a667-2153fb2508fb.png)
 
 
+**Connect the storage to a shared drive or a pc**
+
+  1) Click on the "connect" option in the actions menu:
+
+  ![image](https://user-images.githubusercontent.com/105960409/172264588-0f0d9598-a3ce-4370-91a1-34f3f4f6ba6d.png)
+
+
+  2) The pop-up menu will give you the options to connect, choose your OS and Authentication method, the code that appears needs to be pasted into a terminal/CMD
+
+  ![image](https://user-images.githubusercontent.com/105960409/172264814-c4b79ac2-80a1-4672-9e27-9b3f22531f49.png)
+
+  3) Once it loads, click enter in the terminal, it will show a message confirming that it was succesfull
+
+  ![image](https://user-images.githubusercontent.com/105960409/172264894-76592280-c4e7-4bbe-87e2-c7c6aa6d664f.png)
+
+  4) Your File storage folder will appear as a shared/network folder in your computer: 
+
+  ![image](https://user-images.githubusercontent.com/105960409/172264967-00cfd198-c6c7-4240-8544-8010a0ae288a.png)
+
+
+
   
-  
+
